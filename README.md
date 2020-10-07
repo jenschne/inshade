@@ -4,7 +4,7 @@
 
 ### Copyright Notice:  
 Software in this repository is **(c) 2020 by M. Agus, K. Al-Thelaya, Y. Yang and J. Schneider, CSE, Hamad Bin Khalifa University**.  
-It can be used for non-commercial purposes under the [CC-NC-ND 4.0 licence](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). For use in commercial projects, kindly contact [Marco Agus](mailto:magus@hbku.edu.qa). If you use this software in a publication, kindly cite the below reference.
+It is distributed under the [CC-NC-ND 4.0 licence](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). For use in commercial projects, kindly contact [Marco Agus](mailto:magus@hbku.edu.qa). If you use this software in a publication, kindly cite the below reference.
 
 -----
 
